@@ -27,3 +27,10 @@
   *  LU Decomposition 
   * Cholesky Factorization 
   * Iterative Methods (Jacobian method and Gauss-Seidel method)
+  
+## 6. Term Project 
+  * Problem: Solve Burger's Equation and Troesch Equation
+  * Method: 
+    (1) Construct ifferential matrices: finite difference method vs spectral method
+    (2) Select nodes: uniform nodes vs. Chebyshev nodes
+    (3) Solve systems of equations: Newton method
