@@ -30,7 +30,7 @@
   
 ## 6. Term Project 
   * Problem: Solve Burger's Equation and Troesch Equation
-  * Method: 
-    (1) Construct ifferential matrices: finite difference method vs spectral method
-    (2) Select nodes: uniform nodes vs. Chebyshev nodes
+  * Method: <br />
+    (1) Construct ifferential matrices: finite difference method vs spectral method <br />
+    (2) Select nodes: uniform nodes vs. Chebyshev nodes <br />
     (3) Solve systems of equations: Newton method
