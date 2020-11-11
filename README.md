@@ -1,5 +1,5 @@
 # Numerical-Analysis
-Introduction to Computational Mathematics (2019 Fall)
+Introduction to Computational Mathematics (Fall 2019)
 
  ## 1. Root Finding Algorithms 
   * Bisection Method
