@@ -29,8 +29,8 @@ Introduction to Computational Mathematics (2019 Fall)
   * Iterative Methods (Jacobian method and Gauss-Seidel method)
   
 ## 6. Term Project 
-  * Problem: Solve Burger's Equation and Troesch Equation
-  * Method: <br />
+  * **Problem:** Solve Burger's Equation and Troesch Equation
+  * **Method:** <br />
     (1) Construct differential matrices: finite difference method vs spectral method <br />
     (2) Select nodes: uniform nodes vs. Chebyshev nodes <br />
     (3) Solve systems of equations: Newton method
