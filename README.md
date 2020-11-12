@@ -30,7 +30,7 @@ Introduction to Computational Mathematics (Fall 2019)
   
 ## 6. Term Project 
   * **Problem:** Solve Burger's Equation and Troesch Equation
-  * **Method:** <br />
+  * **Methods:** <br />
     * Construct differential matrices: finite difference method vs spectral method <br />
     * Select nodes: uniform nodes vs. Chebyshev nodes <br />
     * Solve systems of equations: Newton method
