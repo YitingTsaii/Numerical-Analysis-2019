@@ -1,4 +1,4 @@
-# Numerical-Analysis
+# Numerical-Analysis-2019
 Introduction to Computational Mathematics (Fall 2019)
 
  ## 1. Root Finding Algorithms 
